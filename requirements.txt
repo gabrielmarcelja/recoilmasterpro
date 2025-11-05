@@ -1,0 +1,13 @@
+# Core
+interception-python>=0.1.0
+keyboard>=0.13.5
+pynput>=1.7.6
+
+# GUI (escolha um)
+PyQt5>=5.15.0              # Para GUI moderna
+# OU
+# tkinter vem built-in no Python
+
+# Utils
+colorama>=0.4.6            # Terminal colorido
+psutil>=5.9.0              # Monitor de processos

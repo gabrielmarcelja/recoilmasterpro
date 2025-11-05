@@ -1,0 +1,16 @@
+{
+    "active": false,
+    "sensitivity": 1.0,
+    "weapon": "rust_ak47",
+    "humanization": true,
+    "jitter_amount": 1,
+    "hotkey_toggle": "f8",
+    "hotkey_weapon": "f9",
+    "theme": "dark",
+    "stats": {
+        "total_shots": 0,
+        "total_sprays": 0,
+        "sessions": 0,
+        "total_time": 0
+    }
+}
